@@ -1,4 +1,4 @@
-# WordleInAssembly
+# Wordle In Assembly
 
 ##
 
